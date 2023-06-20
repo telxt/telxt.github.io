@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xingtai Lv / Home Page(initial)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xingtai Lv"
 description              : &description "personal description"
 url                      : https://telxt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xingtai Lv"
   avatar           : "profile.png"
-  bio              : "A student in Tsinghua University, China"
+  bio              : "A student in Tsinghua University, China\nThis Home Page is not built completely. If you really want my self-introduction, please email me(lvxt20@mails.tsinghua.edu.cn)"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lvxt20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
