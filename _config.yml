@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingtai Lv / Home Page(initial)"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Xingtai Lv"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://telxt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingtai Lv"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A student in Tsinghua University, China"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
