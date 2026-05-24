@@ -27,6 +27,7 @@ Hi! I am a Ph.D. student in [Tsinghua University](https://www.tsinghua.edu.cn/),
 
 - *2026.05*: &nbsp;🔥 [ZEDA](https://arxiv.org/abs/2605.18643) released at arXiv [[GitHub]](https://github.com/TsinghuaC3I/ZEDA)
 - *2025.09*: &nbsp;🔥 [UPGE / HPT](https://arxiv.org/abs/2509.04419) released at arXiv [[GitHub]](https://github.com/TsinghuaC3I/Unify-Post-Training)
+- *2025.03*: &nbsp;🔥 [SSM Survey](https://arxiv.org/abs/2503.11224) released at arXiv
 - *2024.11*: &nbsp;🎉 [Low-dimensional Projected Attention](https://arxiv.org/abs/2411.02063) accepted by EMNLP 2024 [[GitHub]](https://github.com/TsinghuaC3I/LPA)
 - *2023.12*: &nbsp;🎉 [Sparse LoRA](https://arxiv.org/abs/2311.11696) accepted by EMNLP 2023 [[GitHub]](https://github.com/TsinghuaC3I/SoRA)
 - *2023.07*: &nbsp;🎉 [Parameter-efficient Weight Ensembling Facilitates Task-level Knowledge Transfer](https://aclanthology.org/2023.acl-short.24/) accepted by ACL 2023 [[GitHub]](https://github.com/telxt/Delta_search)
