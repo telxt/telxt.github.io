@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! I am a Ph.D. student in [C3I](https://c3i.ee.tsinghua.edu.cn/en/), [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Prof. Bowen Zhou](https://c3i.ee.tsinghua.edu.cn/en/author/bowen-zhou/). My research interests include LLM post-training, model architecture design, and agents.
+Hi! I am a Ph.D. student in [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Prof. Bowen Zhou](https://c3i.ee.tsinghua.edu.cn/en/author/bowen-zhou/). I received my bachelor’s degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests include LLM post-training (especially reinforcement learning), agents, and model architecture design.
 
 <span class='anchor' id='news'></span>
 
