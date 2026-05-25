@@ -48,7 +48,7 @@ Hi! I am a Ph.D. student in [Tsinghua University](https://www.tsinghua.edu.cn/),
   Kaiyan Zhang\*, Yuxin Zuo\*, Bingxiang He\*, Youbang Sun\*, Runze Liu\*, Che Jiang\*, Yuchen Fan\*, Kai Tian\*, Guoli Jia\*, Pengfei Li\*, Yu Fu\*, **Xingtai Lv**\*, Yuchen Zhang\*, Sihang Zeng\*, Shang Qu\*, Haozhan Li\*, Shijie Wang\*, Yuru Wang\*, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou<br>
   *Preprint* [[GitHub]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)<br>
-  **Xingtai Lv**, Youbang Sun, Kaiyan Zhang, Shang Qu, Xuekai Zhu, Yuchen Fan, Yi Wu, Ermo Hua, Xinwei Long, Ning Ding, Bowen Zhou<br>
+  **Xingtai Lv**\*, Youbang Sun\*, Kaiyan Zhang\*, Shang Qu, Xuekai Zhu, Yuchen Fan, Yi Wu, Ermo Hua, Xinwei Long, Ning Ding, Bowen Zhou<br>
   *Preprint*
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456)<br>
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Yuchen Zhang, Jiacheng Chen, Wendi Li\*, Bingxiang He\*, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, **Xingtai Lv**, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
