@@ -34,7 +34,7 @@ Hi! I am a Ph.D. student in [Tsinghua University](https://www.tsinghua.edu.cn/),
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
+# 📝 Highlight Publications
 
 (* denotes equal contribution)
 
